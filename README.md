@@ -218,3 +218,11 @@ Decouples the agent logic from the UI, making it easy to swap the frontend or ex
 ---
 
 *Built for the ServiceHive × Inflx ML Intern Assignment — April 2026*
+**Manikant**
+- GitHub: [github.com/Manikant-14](https://github.com/Manikant-14)
+- LinkedIn: [linkedin.com/in/manikant14](https://linkedin.com/in/manikant14)
+- Email: manikantmgr14@gmail.com
+
+---
+
+*Built for the ServiceHive × Inflx ML Intern Assignment — April 2026*
