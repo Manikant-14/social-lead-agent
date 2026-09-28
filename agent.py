@@ -9,7 +9,7 @@ from rag import retrieve_context
 from tools import mock_lead_capture
 
 llm = ChatGroq(
-    model="llama-3.3-70b-versatile",
+    model="openai/gpt-oss-120b",
     groq_api_key=os.environ.get("GROQ_API_KEY")
 )
 

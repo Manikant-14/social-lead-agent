@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "https://thirty-doors-yawn.loca.lt/chat"
+API_URL = "https://yummy-carrots-marry.loca.lt/chat"
 
 st.set_page_config(
     page_title="AutoStream AI Assistant",
@@ -98,7 +98,7 @@ div[data-testid="stChatMessageContent"] p { color: #e2e8f0; line-height: 1.6; }
 st.markdown("""
 <div class="hero-header">
     <div class="hero-title">🎬 AutoStream AI</div>
-    <div class="hero-sub">Your intelligent video editing assistant · Powered by Gemini 1.5 Flash + RAG</div>
+    <div class="hero-sub">Your intelligent video editing assistant · Powered by Groq (gpt-oss-120b) + RAG</div>
 </div>
 """, unsafe_allow_html=True)
 
